@@ -115,7 +115,7 @@
 
 ###
 </br>
-<h3 align="center">Social Links</h3>
+<h3 align="center">🌐 Social Links</h3>
 
 ###
 
@@ -138,6 +138,7 @@
 ###
 </br>
 <h3 align="center">📊 GitHub Stats & Streaks</h3>
+
 
 ###
 
