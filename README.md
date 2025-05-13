@@ -137,12 +137,14 @@
 
 ###
 </br>
-<h3 align="center">Stats & Streaks</h3>
+<h3 align="center">📊 GitHub Stats & Streaks</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tanzim52&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mirajul-islam25&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mirajul-islam25&theme=dark&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirajul-islam25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="streak graph"  />
 </div>
 
 ###
