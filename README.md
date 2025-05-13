@@ -23,12 +23,12 @@
 
 ###
 
-- 💥 Discovering Next.js.
-- 🔎 Enhanced **MEarn** - A micro earning platform with funtional admin, user, worker panel
-- 🚀 Built **CritiQ** – A service review platform with authentication & CRUD  
-- 🌍 Developed **Eco-Adventure Experiences** – An eco-friendly travel blog  
-- 🎨 Enhanced **Orchid** – A stylish project with authentication & animations  
-- 🎮 Gaming whenever I get the chance – because I'm a little bit of a game rat!  
+- 
+- 
+- 
+-  
+- 🎨   
+- 🎮 
 
 ###
 </br>
@@ -120,16 +120,16 @@
 ###
 
 <div align="center">
-  <a href="mailto:mahin1575@gmail.com" target="_blank">
+  <a href="mailto:" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/tanzim52/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/mjTanzim" target="_blank">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://wa.me/+8801744842814" target="_blank">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   
