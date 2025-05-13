@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center">This is Mirajul here, a Front-end Developer, an Undergrad. CSE student studying in Netrokona University, who crafts fast, accessible, and user-centered web experiences. With deep expertise in React, modern CSS, and responsive design, I specialize in building polished interfaces that scale—from landing pages to full-fledged web apps. I don’t just code—I solve problems, optimize performance, and collaborate closely with product teams to deliver measurable results.</p>
+<p align="center">This is Mirajul here, a Front-end Developer, an Undergrad. CSE student studying in Netrokona University, who crafts fast, accessible, and user-centered web experiences. With deep expertise in React, JavaScript, TailwindCSS, CSS3, HTML5 and responsive design, I specialize in building polished interfaces that scale—from landing pages to full-fledged web apps. I don’t just code—I solve problems, optimize performance, and collaborate closely with product teams to deliver measurable results.</p>
 
 ###
 </br>
@@ -27,8 +27,8 @@
 - 
 - 
 -  
-- 🎨   
-- 🎮 
+-   
+-  
 
 ###
 </br>
@@ -161,6 +161,14 @@
 </div>
 
 
+## 
+</br>
+<h3 align="center">🏆 GitHub Contribution Graph</h3>
 
+
+##
+<div align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirajul-islam25&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div>
 
 ###
