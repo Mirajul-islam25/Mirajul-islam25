@@ -32,11 +32,11 @@
 
 ###
 </br>
-<h2 align="center">Skills</h2>
+<h2 align="center">🛠️ Skills</h2>
 
 ###
 
-<h3 align="center">**Frontend**</h3>
+<h3 align="center">🧩 Frontend</h3>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 </br>
-<h3 align="center">**Backend**</h3>
+<h3 align="center">🛠️ Backend</h3>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 </br>
-<h3 align="center">**Tools**</h3>
+<h3 align="center">💻 Tools</h3>
 
 ###
 
@@ -100,7 +100,7 @@
 
 ###
 </br>
-<h3 align="center">**Problem Solving**</h3>
+<h3 align="center">👨‍💻 Problem Solving</h3>
 
 ###
 
