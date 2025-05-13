@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="250" src="https://i.ibb.co.com/bgGc5WPq/md-mahin-jawad-tanzim-1.png"  />
+  <img height="250" src=""  />
 </div>
 
 ###
 
 <div>
-  <h2 align="left">Md. Mahin Jawad Tanzim</br>MERN Stack Developer</h2>
+  <h2 align="left">Md. Mirajul Islam</br>Front-end Developer</h2>
   
 </div>
 
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center">This is Tanzim here, a MERN Stack Developer, an Undergrad. CSE student studying in Netrokona University, who loves building cool web apps and exploring new tech. When I'm not coding, you'll probably find me deep in a game, grinding levels or chasing high scores. Always up for learning, creating, and a good gaming session!</p>
+<p align="center">This is Mirajul here, a Front-end Developer, an Undergrad. CSE student studying in Netrokona University, who crafts fast, accessible, and user-centered web experiences. With deep expertise in React, modern CSS, and responsive design, I specialize in building polished interfaces that scale—from landing pages to full-fledged web apps. I don’t just code—I solve problems, optimize performance, and collaborate closely with product teams to deliver measurable results.</p>
 
 ###
 </br>
