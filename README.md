@@ -88,8 +88,8 @@
     <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="nodejs logo" />
     <br>Node.js
   </td>
-  <td align="center" width="116">
-    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" width="96" height="48" alt="express logo" />
+  <td align="center" width="128">
+    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" width="128" height="48" alt="express logo" />
     <br>Express.js
   </td>
   <td align="center" width="96">
@@ -106,26 +106,54 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud logo"  />
+
+ <div align="center">
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vs code logo" />
+    <br>VScode
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="git" />
+    <br>Git
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
+    <br>Github
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
+    <br>Firebase
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="48" height="48" alt="netlify" />
+    <br>Netlify
+  </td>
+  <td align="center" width="144">
+    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" width="144" height="48" alt="versel" />
+    <br>Versel
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
+    <br>Figma
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="canva" />
+    <br>Canva
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/npm/CB3837" width="48" height="48" alt="npm" />
+    <br>NPM
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48" height="48" alt="googlecloud" />
+    <br>GoogleCloud
+  </td>
+</tr>
+</table>
 </div>
 
 ###
