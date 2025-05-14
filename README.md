@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="center">Hey there,</h3>
+<h3 align="center">👋 Hey there, curious minds</h3>
 
 ###
 
@@ -19,20 +19,20 @@
 
 ###
 </br>
-<h3 align="left">Current Activities :</h3>
+<h3 align="left">🔄 Current Activities :</h3>
 
 ###
 
-- 
-- 
-- 
--  
--   
--  
+- 🚀 Building responsive and accessible UI components with React + TailwindCSS
+- 📚 Learning and exploring backend integration
+- 🛠️ Participating in GitHub open-source projects and frontend discussions
+- 🎓 Balancing university coursework with real-world development
+- 🧠 Maintaining a growth mindset while debugging tricky issues
+- 🤝 Pair programming with friends or teammates to share knowledge
 
 ###
 </br>
-<h2 align="center">🛠️ Skills</h2>
+<h2 align="center">💼 Skills</h2>
 
 ###
 
@@ -102,7 +102,7 @@
 
 ###
 </br>
-<h3 align="center">💻 Tools</h3>
+<h3 align="center">💻 Dev Tools</h3>
 
 ###
 
