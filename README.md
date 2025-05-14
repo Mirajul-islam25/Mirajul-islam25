@@ -105,12 +105,22 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c logo" />
+    <br>C
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="CPP logo" />
+    <br>C++
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java logo" />
+    <br>Java
+  </td>
+</tr>
+</table>
 </div>
 
 ###
@@ -120,18 +130,31 @@
 ###
 
 <div align="center">
-  <a href="mailto:" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<table>
+<tr>
+  <td align="center" width="96">
+    <a href="mailto:" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="44" alt="gmail logo"  />
   </a>
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </td>
+  <td align="center" width="96">
+    <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="44" alt="linkedin logo"  />
   </a>
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </td>
+  <td align="center" width="96">
+    <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="44" alt="twitter logo"  />
   </a>
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </td>
+  <td align="center" width="96">
+    <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="44" alt="whatsapp logo"  />
   </a>
+  </td>
+</tr>
+</table>
+</div>
   
 </div>
 
