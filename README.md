@@ -41,19 +41,38 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+    <br>HTML
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+    <br>CSS
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="Tailwind logo" />
+    <br>Tailwind
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+    <br>JavaScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+    <br>React
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs logo" />
+    <br>Next.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/mui/007FFF" width="48" height="48" alt="materialui logo" />
+    <br>Materialui
+  </td>
+</tr>
+</table>
 </div>
 
 ###
@@ -63,11 +82,22 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="nodejs logo" />
+    <br>Node.js
+  </td>
+  <td align="center" width="116">
+    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" width="96" height="48" alt="express logo" />
+    <br>Express.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" height="48" alt="mongodb logo" />
+    <br>MongoDB
+  </td>
+</tr>
+</table>
 </div>
 
 ###
