@@ -238,7 +238,7 @@
 
 ##
 <div align="center">
-   <img src="https://github-trophies.vercel.app/?username=Mirajul-Islam25&theme=radical&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy"  />
+   <img src="https://github-trophies.vercel.app/?username=Mirajul-Islam25&theme=radical&no-frame=false&no-bg=false&margin-w=4" height="200" alt="trophy"  />
 </div>
 
 
